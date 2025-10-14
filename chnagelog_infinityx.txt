@@ -1,1 +1,24 @@
-notyet
+20251014
+• Initial Android 16 build
+• October Security Patch
+• Fix Volte (Thank fuki🥰)
+• Fix FM radio 
+• Added Viper4FX
+• Fix CameraCrash
+
+Source :
+Changelog for @ProjectInfinityX Version 3.3 releasing since 13/10/2025
+
+Complete v3.3 changelog (https://t.me/ProjectInfinityX/1503)
+Screenshots (https://t.me/ProjectInfinityX/1506?single)
+
+- Removed duplicate display cutout settings
+- Add notchbarkiller to display cutout options
+- Fix last recent app launching instead of home screen after few minutes of inactivity 
+- Restore chip layout for launcher recent buttons
+- Make calendar and clock app icon on launcher app drawer realtime updated
+- Add more grid options in launcher
+- Fix appdrawer searchbar color on light mode
+- Add recents/appdrawer blur customisation to launcher
+- Lmofreeform additions/fixes
+- Fix issues with transparent notification style & Introduce transparent notification style separately for lockscreen
